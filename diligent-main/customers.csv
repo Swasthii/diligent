@@ -1,0 +1,101 @@
+customer_id,name,email,location,join_date
+1,Patrick Sanchez,jillrhodes@example.net,"New Roberttown, CO",2025-03-24
+2,Lance Hoffman,lrobinson@example.com,"Port Lindachester, MA",2024-05-01
+3,Tyler Rogers,jamesmichael@example.com,"Lindsaymouth, ND",2024-06-16
+4,Jamie Arnold,barbara10@example.net,"Port Keith, CO",2024-02-18
+5,Brian Ramirez,francisco53@example.net,"Jacquelineland, PA",2025-09-08
+6,Nicholas Martin,onelson@example.net,"Lake Mark, WI",2025-03-21
+7,Rodney Trujillo,nadams@example.net,"Jasonfort, MO",2025-07-08
+8,Judy Baker,julieryan@example.net,"Hurstfurt, MN",2025-10-01
+9,Brenda Snyder PhD,hernandezernest@example.net,"Carlsonfurt, MS",2024-05-02
+10,Kendra Maddox DVM,frazierdanny@example.net,"Kaylamouth, DE",2025-02-18
+11,Jesse Mckay,teresa28@example.org,"Meaganhaven, PA",2024-06-28
+12,Phillip Ryan,georgetracy@example.org,"Natashaport, IA",2024-04-16
+13,Keith Miller,wcabrera@example.net,"East Donna, OH",2023-12-28
+14,Shane Henderson,sarahcampos@example.net,"Lake Larry, TN",2024-03-21
+15,Steven Hayes,jeffreymorgan@example.net,"New Jeffrey, CA",2025-04-01
+16,Crystal Whitehead,chad34@example.net,"Lewisberg, VA",2025-05-16
+17,Laura Sanchez,maguirre@example.org,"Lake Ryanchester, MT",2025-11-09
+18,Amy Valdez,brownjessica@example.org,"East James, NV",2024-11-10
+19,Donald Wright,ramosmichelle@example.net,"North Deniseside, MP",2024-03-01
+20,Tammy Allison,richardolson@example.com,"East Nicholasfurt, KS",2023-11-25
+21,Jordan Henderson,smoore@example.org,"New Jillton, WA",2025-11-02
+22,Kevin Shaw,brianromero@example.org,"New Carlosbury, MO",2024-07-14
+23,Laura Riley,harveyrobert@example.net,"Sarahborough, TN",2024-02-15
+24,Derek Anderson,stephen10@example.com,"North Amandahaven, KS",2025-05-23
+25,Shirley Suarez,justin78@example.net,"Cherylhaven, AL",2024-02-24
+26,Elizabeth Alvarado,josephpreston@example.net,"West Juan, IL",2025-04-15
+27,Michael Farrell,dking@example.org,"Calderonton, AL",2025-05-24
+28,Mandy Green,barnold@example.net,"North Charlesberg, ND",2024-07-30
+29,Lauren Hernandez,bobbydiaz@example.org,"Jasonbury, TN",2023-12-11
+30,Justin Baxter,sarayoung@example.org,"South Angel, WA",2024-02-01
+31,Timothy Pham,josephcobb@example.org,"Brennanfort, IN",2025-11-01
+32,Julia Torres,jeffreykeller@example.com,"Joshualand, WI",2024-04-17
+33,Jordan Frazier,sheila14@example.org,"Benjaminchester, MI",2024-06-17
+34,Jessica Joyce,cruzbarbara@example.com,"Lake Ryanhaven, AS",2025-06-01
+35,Teresa Mclaughlin,michaeljones@example.net,"Cindyville, VA",2025-01-05
+36,Eric Ortiz,jterry@example.org,"South Elizabeth, MS",2025-10-13
+37,Carrie Carroll,akelley@example.com,"Jasonshire, PA",2025-04-23
+38,Jeremy Lowe,yleon@example.net,"Lake Christopher, NY",2025-04-05
+39,Frances Cardenas,emilywalker@example.org,"North Brandon, NJ",2025-04-12
+40,Angel Perry,jennifercruz@example.com,"East Diana, AL",2025-03-02
+41,Patricia Rodriguez,zrobinson@example.net,"Williamsbury, PW",2025-10-07
+42,Casey Marshall,stephanie79@example.net,"Rivasside, NV",2025-09-02
+43,Scott Cole,maryramirez@example.net,"Simsview, NV",2025-10-10
+44,Cynthia Rogers,taylorjesse@example.net,"Lake Jason, MT",2024-01-13
+45,John Brown,xprice@example.net,"Port Nicoleshire, MS",2024-09-25
+46,Guy Molina,vmedina@example.net,"South Jeffrey, NE",2024-11-18
+47,George Shelton,dramsey@example.org,"South Brittanytown, CO",2024-11-25
+48,Sean White,nicholas37@example.com,"Kathleenfurt, KY",2025-03-27
+49,Jennifer Conley,ismith@example.org,"Jeffreyland, WI",2025-06-20
+50,Andre Wright,howelljohn@example.com,"New Staciemouth, UT",2025-04-03
+51,Carol Lawson,stricklandfrank@example.com,"New Anthonyport, OK",2024-05-31
+52,Jaime David,charlesvaughn@example.net,"North Heidi, ME",2025-04-23
+53,Renee Hogan,reedross@example.com,"New Deborahtown, PR",2025-09-04
+54,Ashley Yu,bzimmerman@example.org,"Christinaside, WI",2024-10-05
+55,Roger Vargas,melissa14@example.com,"Port Steven, RI",2024-11-23
+56,Allen Rosales,tonykelly@example.com,"Joshuaview, OH",2025-04-15
+57,Cheryl Allen,wfreeman@example.org,"Brewerfort, NV",2023-11-21
+58,Edward Sullivan,kevinperkins@example.com,"Ronaldside, MA",2025-07-21
+59,Denise King,griffithleslie@example.net,"East Javier, NJ",2024-08-13
+60,Vanessa Warren,tina34@example.org,"Harrytown, VT",2024-06-15
+61,Angel Brown,heidi27@example.org,"New Justinfort, NV",2025-01-01
+62,Anthony Everett,ewilson@example.com,"Joneston, FL",2024-08-04
+63,Tiffany Miller,davidduran@example.net,"Port Alexandra, NV",2024-03-08
+64,Scott Branch,ashley09@example.net,"Port Jaredborough, KS",2025-10-19
+65,David Arnold,aaronhayes@example.net,"Carterbury, LA",2025-04-09
+66,Scott Jones,sandrafrench@example.net,"South Danny, IN",2025-05-16
+67,Derek Thomas,martinkyle@example.net,"Scottmouth, UT",2025-03-31
+68,Terri Mason,mkim@example.org,"Navarroview, AK",2024-07-07
+69,Michael Valencia,keyemily@example.com,"Port Katelynfort, NC",2024-01-23
+70,Donald Shea,fwalters@example.org,"Baileymouth, MD",2025-04-03
+71,Christopher Jenkins,zroberts@example.net,"South Christopherview, MD",2025-04-17
+72,Jennifer Robertson,sandovalamy@example.com,"East Aprilfort, SC",2024-02-12
+73,Christina Dunn,samuel71@example.org,"Lake Eric, OH",2024-10-22
+74,Anna Gay,murraydavid@example.org,"Cantuport, NY",2023-11-24
+75,Ruben Baird,stephenthomas@example.org,"Port Chad, WI",2025-05-14
+76,Gina French,lori44@example.net,"Grimesmouth, ND",2025-07-19
+77,Juan Daniels,mcantu@example.net,"New Patrick, PR",2024-11-24
+78,Evan Kennedy,qhughes@example.net,"South Tammie, DC",2025-07-08
+79,Evelyn Garcia,dgarcia@example.org,"South Monica, FL",2024-12-08
+80,Wayne Morgan,vsantos@example.net,"Finleyfort, VI",2024-01-11
+81,Barry Welch,wendy16@example.org,"South Garrettport, MH",2025-01-07
+82,Robert Carter,ryan38@example.com,"East Gregory, RI",2023-12-06
+83,Michael Jimenez,jesselittle@example.com,"Elizabethmouth, MH",2025-09-20
+84,Brooke Alexander,vanessa46@example.net,"Stephenport, ID",2024-06-24
+85,Ashley James,bailey40@example.net,"Hillshire, VI",2024-09-07
+86,Valerie Lozano,swall@example.org,"Jefferyborough, RI",2025-04-29
+87,Michelle Hopkins,courtneyberger@example.net,"West Kristinaton, OR",2024-05-26
+88,Ann Phillips,ithompson@example.net,"Alyssaview, MP",2024-08-23
+89,Roger Olson,julie51@example.com,"East Karenbury, VI",2024-03-20
+90,Veronica Coffey,christopher60@example.com,"South Miguelview, OR",2025-04-22
+91,Teresa Rodriguez,thomasharvey@example.net,"Rosebury, SD",2024-09-04
+92,Julie Haynes,cwilson@example.org,"Wendyville, CT",2024-01-02
+93,Brandy Chavez,umatthews@example.org,"Penafort, RI",2024-05-14
+94,Diana Vaughn,scottsampson@example.com,"Lake Michaelstad, AR",2024-09-25
+95,Walter Rush,ndavis@example.net,"North Kristinbury, DC",2024-09-18
+96,Andrea Hubbard,brendali@example.org,"Kimtown, KY",2025-07-17
+97,Dr. Kimberly Lindsey,guerreroanthony@example.org,"Kristybury, OR",2025-09-10
+98,Derek Martinez,vfox@example.org,"Weststad, NY",2024-07-22
+99,Jonathan Dougherty,acostaregina@example.net,"Stephentown, AR",2025-02-17
+100,Jessica Rodriguez,fjones@example.com,"North David, RI",2024-11-20
